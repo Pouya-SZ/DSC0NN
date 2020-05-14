@@ -3,7 +3,7 @@ Deep Spiking Convolutional Neural Network (DSC0NN) for the epileptic seizure det
 
 This repository presents the development of a deep spiking neural network, using the surrogate gradient learning algorithm introduced by F. Zenke (https://github.com/fzenke/spytorch), for the detection of epileptic seizure. The introduced network here is the modified version of its original form called s2net (https://github.com/romainzimmer/s2net). Further information is available in the following paper: "Epileptic Seizure Detection Using a Neuromorphic-compatible Deep Spiking Neural Network, Springer Lecture Notes in Bionformatics (LNBI)".
 
-To reference this work please cite: P. S. Zarrin , R. Zimmer, C. Wenger, and T. Masquelier "Epileptic Seizure Detection Using a Neuromorphic-compatible Deep Spiking Neural Network", Springer Lecture Notes in Bionformatics (LNBI), 2020. 
+To reference this work please cite: Zarrin P.S., Zimmer R., Wenger C., Masquelier T. (2020) Epileptic Seizure Detection Using a Neuromorphic-Compatible Deep Spiking Neural Network. In: Bioinformatics and Biomedical Engineering. IWBBIO 2020. Lecture Notes in Computer Science, vol 12108. Springer, Cham.
 
 If you use the original s2net model, please consider citing: R. Zimmer, T. Pellegrini2 , S. F. Singh, and T. Masquelier. Technical report: supervised training of convolutional spiking neural networks with PyTorch. In https://arxiv.org/abs/1911.10124
 
